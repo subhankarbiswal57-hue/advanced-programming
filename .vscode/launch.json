@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Q6",
+            "request": "launch",
+            "mainClass": "Q6",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
             "name": "Q5",
             "request": "launch",
             "mainClass": "Q5",

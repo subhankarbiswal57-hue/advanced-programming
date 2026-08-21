@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Disp",
+            "request": "launch",
+            "mainClass": "Disp",
+            "projectName": "java2_824f8a98"
+        },
+        {
+            "type": "java",
+            "name": "Q5",
+            "request": "launch",
+            "mainClass": "Q5",
+            "projectName": "java2_824f8a98"
+        },
+        {
+            "type": "java",
+            "name": "Stu",
+            "request": "launch",
+            "mainClass": "Stu",
+            "projectName": "java2_824f8a98"
+        },
+        {
+            "type": "java",
             "name": "Area",
             "request": "launch",
             "mainClass": "Area",

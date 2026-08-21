@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Area",
+            "request": "launch",
+            "mainClass": "Area",
+            "projectName": "java2_824f8a98"
+        },
+        {
+            "type": "java",
+            "name": "Q4",
+            "request": "launch",
+            "mainClass": "Q4",
+            "projectName": "java2_824f8a98"
+        },
+        {
+            "type": "java",
             "name": "Q3",
             "request": "launch",
             "mainClass": "Q3",

@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Conveter",
+            "request": "launch",
+            "mainClass": "Conveter",
+            "projectName": "java2_824f8a98"
+        },
+        {
+            "type": "java",
             "name": "Record",
             "request": "launch",
             "mainClass": "Record",
